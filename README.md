@@ -1,6 +1,4 @@
-# backend-pre-task
-
-# 키즈노트 백엔드 사전과제 원재연
+# Django-Rest-Framework practice repository
 ***
 
 ### 도메인 요구사항
@@ -40,7 +38,6 @@
 ### 사용 기술 스택
 - 기술
   - python 
-  - django
   - django-rest-framework
   - MySQL
 
@@ -56,7 +53,7 @@
   - DB_PW
   - DB_HOST
   - DB_PORT
-  - SECRET_KEY (초기 프로젝트의 SECRET_KEY 그대로 사용 하였습니다.)
+  - SECRET_KEY
 
 - 문서
   - 로컬 서버 실행 후 [문서](http://localhost:8000/swagger/) 접속
